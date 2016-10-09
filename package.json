@@ -1,0 +1,26 @@
+{
+  "name": "hello-common",
+  "version": "1.0.0",
+  "description": "Common utilities across the \"Hello\" project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunpersad/hello-common.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaunpersad/hello-common/issues"
+  },
+  "homepage": "https://github.com/shaunpersad/hello-common#readme",
+  "dependencies": {
+    "async": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.0",
+    "should": "^11.1.0"
+  }
+}
